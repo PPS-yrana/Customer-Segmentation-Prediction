@@ -1,0 +1,4 @@
+Segment,Customers,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Premium Loyalists,232,0.948,0.667,1.0,0.8,1.0
+Budget Regulars,124,0.968,1.0,0.8,0.889,0.992
+Standard Newcomers,144,0.944,0.5,1.0,0.667,0.941
